@@ -1,0 +1,63 @@
+======================================================================
+FORENSICLENS - IMAGE MANIPULATION DETECTION REPORT
+======================================================================
+
+Analysis Date: 2025-10-17 06:31:53
+Image: unnamed (3).jpg
+Full Path: C:/Users/Asus/Videos/TestImages/unnamed (3).jpg
+
+======================================================================
+
+📊 ANALYSIS SUMMARY
+----------------------------------------------------------------------
+
+1. Error Level Analysis (ELA)
+   Suspicion Score: 0/100
+   Status: ✓ NORMAL
+
+3. Noise Inconsistency Analysis
+   Suspicion Score: 100/100
+   Status: 🚨 HIGH SUSPICION
+
+4. Histogram Manipulation Analysis
+   Manipulation Detected: YES ⚠️
+   Type: Contrast Enhancement
+   Confidence: 66/100
+
+5. Bit-Depth Analysis
+   Posterization Detected: NO ✓
+   Suspicion Score: 0/100
+
+6. Frequency Domain Analysis
+   Periodic Patterns: YES ⚠️
+   Frequency Peaks: 1019
+   Suspicion Score: 100/100
+
+7. Contrast Manipulation Analysis
+   Inconsistent Contrast: YES ⚠️
+   Suspicion Score: 100/100
+   Status: 🚨 HIGH SUSPICION
+
+8. Blur Inconsistency Analysis
+   Inconsistent Blur: YES ⚠️
+   Suspicion Score: 100/100
+   Status: 🚨 HIGH SUSPICION
+
+9. Lighting Inconsistency Analysis
+   Inconsistent Lighting: YES ⚠️
+   Suspicion Score: 99/100
+   Status: 🚨 HIGH SUSPICION
+
+======================================================================
+🔍 OVERALL VERDICT
+======================================================================
+
+Average Suspicion Score: 70.6/100
+
+🚨 HIGH PROBABILITY OF MANIPULATION
+   Recommendation: Image is likely manipulated
+   Multiple forensic indicators detected
+
+======================================================================
+End of Report
+======================================================================
